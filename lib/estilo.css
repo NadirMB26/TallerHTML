@@ -1,0 +1,12 @@
+.container{
+ font-style: italic;
+ max-width: 600px;
+ margin: 0 auto;
+ background-color: #fff;
+ padding: 50px;
+ box-shadow: 0 0 10px rgba(193, 188, 188, 0.1);
+}
+.estic{
+font-style: italic;
+color: blue;
+}
